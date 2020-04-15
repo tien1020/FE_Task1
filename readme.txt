@@ -1,4 +1,3 @@
-# FE_Task1
 - Go to this website:
 - Type name of the course in the search box
 - Click "Find Course" button
