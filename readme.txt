@@ -1,4 +1,4 @@
-- Go to this website:
+- Go to this website: https://tien1020.github.io/FE_Task1/
 - Type name of the course in the search box
 - Click "Find Course" button
 - A new page will open with course description: Title, short description, level
